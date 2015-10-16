@@ -1,0 +1,19 @@
+{
+  "name": "inuit-test",
+  "version": "0.0.0",
+  "authors": [
+    "Robert Smith <robert@wasabiweb.se>"
+  ],
+  "license": "MIT",
+  "homepage": "http://rbrtsmith.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "inuitcss": "~5.0.1"
+  }
+}
